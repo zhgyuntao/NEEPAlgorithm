@@ -1,0 +1,13 @@
+TCP/IP
+===
+
+学习计算机网络，关键在于协议及其内容。其中协议涉及
+
+HTTP TFTP FTP NFS WAIS SMTP
+TELNET SNMP DNS
+
+应用层 HTTP DNS FTP SMTP TELNET
+传输层 TCP UDP
+网络层 IP ICMP ARP RARP 
+链路层 PPP 
+物理层 IEEE802.1A
